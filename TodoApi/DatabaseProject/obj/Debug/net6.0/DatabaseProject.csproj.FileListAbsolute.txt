@@ -1,0 +1,12 @@
+D:\C#\Projects\ToDoApi\TodoApi\DatabaseProject\bin\Debug\net6.0\DatabaseProject.deps.json
+D:\C#\Projects\ToDoApi\TodoApi\DatabaseProject\bin\Debug\net6.0\DatabaseProject.dll
+D:\C#\Projects\ToDoApi\TodoApi\DatabaseProject\bin\Debug\net6.0\DatabaseProject.pdb
+D:\C#\Projects\ToDoApi\TodoApi\DatabaseProject\obj\Debug\net6.0\DatabaseProject.csproj.AssemblyReference.cache
+D:\C#\Projects\ToDoApi\TodoApi\DatabaseProject\obj\Debug\net6.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\ToDoApi\TodoApi\DatabaseProject\obj\Debug\net6.0\DatabaseProject.AssemblyInfoInputs.cache
+D:\C#\Projects\ToDoApi\TodoApi\DatabaseProject\obj\Debug\net6.0\DatabaseProject.AssemblyInfo.cs
+D:\C#\Projects\ToDoApi\TodoApi\DatabaseProject\obj\Debug\net6.0\DatabaseProject.csproj.CoreCompileInputs.cache
+D:\C#\Projects\ToDoApi\TodoApi\DatabaseProject\obj\Debug\net6.0\DatabaseProject.dll
+D:\C#\Projects\ToDoApi\TodoApi\DatabaseProject\obj\Debug\net6.0\refint\DatabaseProject.dll
+D:\C#\Projects\ToDoApi\TodoApi\DatabaseProject\obj\Debug\net6.0\DatabaseProject.pdb
+D:\C#\Projects\ToDoApi\TodoApi\DatabaseProject\obj\Debug\net6.0\ref\DatabaseProject.dll
